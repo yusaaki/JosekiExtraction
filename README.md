@@ -1,4 +1,4 @@
-# KataGo 定式库构建 / KataGo Joseki Library Construction
+# KataGo 围棋定式库构建 / KataGo Joseki Library Construction
 
 你可以直接下载提取好的定式：
 
