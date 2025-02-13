@@ -1,6 +1,7 @@
 # KataGo 定式库构建 / KataGo Joseki Library Construction
 
 你可以直接下载提取好的定式：
+
 You can directly download the extracted joseki.
 
 [从训练对局中提取的定式 (Joseki extracted from training games)](https://github.com/yusaaki/JosekiExtraction/raw/main/katago_training_joseki.sgf)
