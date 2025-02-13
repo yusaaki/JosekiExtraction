@@ -24,7 +24,7 @@ You can directly download the extracted joseki.
 - [File Descriptions](#file-descriptions)
 - [Environment Requirements](#environment-requirements)
 - [Usage Guide](#usage-guide)
-- [Referance](#referance)
+- [Reference](#reference)
 - [License](#license)
 
 ---
