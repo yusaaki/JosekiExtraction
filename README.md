@@ -16,6 +16,7 @@ You can directly download the extracted joseki.
 - [文件功能](#文件功能)
 - [环境要求](#环境要求)
 - [使用指南](#使用指南)
+- [参考文献](#参考文献)
 - [许可协议](#许可协议)
 
 ### English
@@ -23,6 +24,7 @@ You can directly download the extracted joseki.
 - [File Descriptions](#file-descriptions)
 - [Environment Requirements](#environment-requirements)
 - [Usage Guide](#usage-guide)
+- [Referance](#referance)
 - [License](#license)
 
 ---
@@ -31,7 +33,7 @@ You can directly download the extracted joseki.
 
 ### 概述
 
-本代码实现从KataGo海量棋谱中自动提取围棋定式(joseki)的功能，包含棋谱下载、定式提取筛选、统计分析等步骤，可生成标准SGF格式的定式树文件。
+本代码实现从KataGo海量棋谱（也可适应其他棋谱集）中自动提取围棋定式(joseki)的功能，包含棋谱下载、定式提取筛选、统计分析等步骤，可生成标准SGF格式的定式树文件。
 
 ### 文件功能
 
@@ -84,6 +86,10 @@ You can directly download the extracted joseki.
    file_path = '.\\joseki_postprocessed.sgf' # 待统计的定式树文件
    ```
 
+### 参考文献
+
+谷蓉,刘学民,朱仲涛,等.一种围棋定式的机器学习方法[J].计算机工程, 2004, 30(6):4.DOI:10.3969/j.issn.1000-3428.2004.06.056.
+
 ### 许可协议
 
 本项目采用 [MIT 许可证](https://opensource.org/licenses/MIT) 发布，须遵守以下条款：
@@ -96,7 +102,7 @@ You can directly download the extracted joseki.
 
 ### Overview
 
-This code automates the extraction of Go joseki (established patterns) from KataGo's massive game records. The pipeline includes game downloading, joseki extraction/filtering, statistical analysis, and generates SGF-format joseki trees.
+This code automates the extraction of Go joseki (established patterns) from KataGo's massive game records (Can also be adapted to other game collections). The pipeline includes game downloading, joseki extraction/filtering, statistical analysis, and generates SGF-format joseki trees.
 
 ### File Descriptions
 
@@ -148,6 +154,10 @@ This code automates the extraction of Go joseki (established patterns) from Kata
    ```python
    file_path = '.\\joseki_postprocessed.sgf' # Target joseki tree file
    ```
+
+# Reference
+
+Rong, G. U. , Xuemin, L. , Zhongtao, Z. , & Jie, Z. . (2004). A machine learning method of joseki database for computer go. Computer Engineering, 30(6), 142-143.
 
 ### License
 
