@@ -42,7 +42,7 @@ You can directly download the extracted joseki.
 |-----------------------|-----------------------------------|
 | download_katago_archive | 棋谱下载，支持指定日期范围下载KataGo官方存档            |
 | extract_joseki         | 定式提取，含非标准对局过滤、坐标标准化与序列处理逻辑        |
-| postprocess_joseki_tree | 定式树优化模块，实现分支修剪(去除出现频率<1%或<10次的分支)与子节点按局面出现频率排序 |
+| postprocess_joseki_tree | 定式树优化模块，实现分支修剪（去除出现频率<1%或<10次的分支）与子节点按局面出现频率排序 |
 | count_leaf             | 统计定式文件的变化数（即子节点个数）              |
 
 ### 环境要求
