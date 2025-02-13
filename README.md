@@ -155,7 +155,7 @@ This code automates the extraction of Go joseki (established patterns) from Kata
    file_path = '.\\joseki_postprocessed.sgf' # Target joseki tree file
    ```
 
-# Reference
+### Reference
 
 Rong, G. U. , Xuemin, L. , Zhongtao, Z. , & Jie, Z. . (2004). A machine learning method of joseki database for computer go. Computer Engineering, 30(6), 142-143.
 
