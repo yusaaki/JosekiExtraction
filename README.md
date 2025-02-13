@@ -1,5 +1,10 @@
 # KataGo 定式库构建 / KataGo Joseki Library Construction
 
+你可以直接下载提取的定式：
+[Download katago_rating_joseki.sgf](https://github.com/yusaaki/JosekiExtraction/raw/main/katago_rating_joseki.sgf)
+
+![Joseki Example](https://github.com/yusaaki/JosekiExtraction/raw/main/joseki_example.png)
+
 ## 目录 / Table of Contents
 
 ### 中文
