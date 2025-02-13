@@ -3,9 +3,9 @@
 你可以直接下载提取好的定式：
 You can directly download the extracted joseki.
 
-[从训练对局中提取的定式(Joseki extracted from training games)](https://github.com/yusaaki/JosekiExtraction/raw/main/katago_training_joseki.sgf)
+[从训练对局中提取的定式 (Joseki extracted from training games)](https://github.com/yusaaki/JosekiExtraction/raw/main/katago_training_joseki.sgf)
 
-[从评估对局中提取的定式(Joseki extracted from rating games)](https://github.com/yusaaki/JosekiExtraction/raw/main/katago_rating_joseki.sgf)
+[从评估对局中提取的定式 (Joseki extracted from rating games)](https://github.com/yusaaki/JosekiExtraction/raw/main/katago_rating_joseki.sgf)
 
 ![Joseki Example](https://github.com/yusaaki/JosekiExtraction/raw/main/joseki_example.png)
 
